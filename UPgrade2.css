@@ -1,0 +1,204 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    top: 0%;
+    background-color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1284px;
+    padding-top: 9px;
+    height: 100px;
+    display: flex;
+    position: fixed;
+    color: white;
+    background-color: #ffc83e;
+    padding-left: 65px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    z-index: 100;
+}
+
+.UPgrade ul {
+    display: flex;
+    color: black;
+    list-style: none;
+    justify-content: space-between;
+    width: 354px;
+    border-radius: 4px;
+    transition: 3s;
+    padding-left: 62px;
+    padding-right: 24px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+.Area {
+    cursor: pointer;
+    /* border: 7px solid aqua;
+    background-color: aqua; */
+    border-radius: 4px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.Area:hover {
+    border: 3px solid black;
+    background-color: black;
+    transition: 3s;
+    color: white;
+}
+
+.Home {
+    border-radius: 4px;
+    cursor: pointer;
+    /* border: 7px solid aqua;
+    background-color: aqua; */
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.Home:hover{
+            border: 3px solid black;
+            background-color: black;
+            transition: 3s;
+            color: white;
+}
+.Registration {
+    cursor: pointer;
+    /* border: 7px solid aqua;
+    background-color: aqua; */
+    border-radius: 4px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.Registration:hover {
+    border: 3px solid black;
+    background-color: black;
+    transition: 3s;
+    color: white;
+}
+
+.logo h2 {
+    font-size: 68px;
+}
+
+.logo span {
+    font-size: 20px;
+    color: black;
+    font-style: italic;
+}
+
+.logo {
+    padding-left: 9px;
+}
+
+.first-container {
+    display: flex;
+}
+
+.First video {
+    height: 334px;
+    width: 417px;
+}
+
+.First {
+    padding-top: 90px;
+    padding-left: 50px;
+}
+
+.Front {
+    color: white;
+    padding-top: 90px;
+    padding-left: 11px;
+    font-size: 15px;
+}
+
+.Back {
+    color: white;
+    padding-left: 11px;
+    font-size: 13.5px;
+    padding-top: 57px;
+}
+
+.second-container {
+    display: flex;
+}
+
+.Second {
+    padding-top: 70px;
+    padding-left: 50px;
+}
+
+.Second img {
+    height: 407px;
+    width: 413px;
+}
+
+.Third-container {
+    display: flex;
+}
+
+.Third {
+    padding-top: 70px;
+    padding-left: 50px;
+}
+
+.Third img {
+    height: 314px;
+    width: 420px;
+}
+
+.DOWN {
+    color: white;
+    padding-left: 11px;
+    font-size: 13.5px;
+    padding-top: 57px;
+}
+
+footer {
+    width: 200px;
+}
+
+.aBout {
+    display: flex;
+    color: white;
+    align-items: center;
+    background-color: #ffc83e;
+    font-size: 20px;
+    color: black;
+    font-style: italic;
+    width: 500px;
+    height: 105px;
+    padding-left: 20px;
+    padding-top: 9px;
+    position: absolute;
+    left: 779px;
+}
+
+h2 {
+    font-size: 68px;
+    color: white;
+    font-style: normal;
+}
+
+.loGo span {
+    font-size: 20px;
+    color: black;
+    font-style: italic;
+}
+
+.list {
+    padding-left: 80px;
+}
